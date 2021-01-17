@@ -1,4 +1,7 @@
 '''
+
+Hello World
+
 ok so since you have an Editor now i assume you know how to import python libraries...well import all which have been mentioned!
 if you find any errors regarding problems in installing pyaudio, i would suggest to download the same using conda(Anaconda)
 If you are still facing ANY kind of issues , kindly contact me at oyumgameo@gmail.com
